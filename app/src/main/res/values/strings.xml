@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">FaisalAlhuwaishel200118Project</string>
+    <string name="name">Faisal Alhuwaishel 200118</string>
+    <string name="sql">SQLite Database</string>
+    <string name="firebase">Firebase Database</string>
+    <string name="firstName">First Name</string>
+    <string name="fatherName">Father Name</string>
+    <string name="surname">Surname</string>
+    <string name="gender">Gender</string>
+    <string name="date">Date</string>
+    <string name="nId">National ID</string>
+    <string name="btnInsert">Insert</string>
+    <string name="id">ID</string>
+    <string name="valuekey">Key</string>
+    <string name="value">Value</string>
+    <string name="btnFind">Find</string>
+    <string name="btnUpdate">Update</string>
+    <string name="btnDelete">Delete</string>
+    <string name="firebaseEdit">Firebase Edit</string>
+    <string name="firebaseInsert">Firebase Insert</string>
+    <string name="sqlEdit">SQLite Edit</string>
+    <string-array name="keys">
+        <item>First_Name</item>
+        <item>Father_Name</item>
+        <item>Surname</item>
+        <item>NationalID</item>
+        <item>Gender</item>
+        <item>Date</item>
+    </string-array>
+    <string name="btnWeather">WeatherAPI</string>
+    <string name="weatherCity">City</string>
+    <string name="editCity">Change City</string>
+    <string name="btnInsertSQL">Insert From Firebase</string>
+</resources>
